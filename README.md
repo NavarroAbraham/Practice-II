@@ -1,7 +1,11 @@
-## Nombres de los Integrantes del grupo:
+# Student's Id Card (Practice II)
+Practice 2 for the course Programming Languages / EAFIT
+## Names:
 #### Abraham Elias Navarro Martinez
 #### Emanuel Gonzalez Quintero
-## Versión del compilador: 
+## Compiler version: 
 The Glorious Glasgow Haskell Compilation System, version 9.8.1
-## IDEs utilizados:
-Visual Studio Code y onlineGDB
+## IDEs:
+Visual Studio Code and onlineGDB
+## link to the support video (Youtube):
+https://youtu.be/oahsrtwAZvs
